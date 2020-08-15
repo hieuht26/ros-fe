@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[32],{595:function(e,n,a){"use strict";a.r(n);var t=a(1),c=a.n(t),r=a(577),u=a(590),o=a(23);n.default=function(){return c.a.createElement(r.a,null,c.a.createElement(u.a,{path:o.a.LOGIN}))}}}]);

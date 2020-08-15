@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[91],{796:function(n,e,t){"use strict";t.r(e);var a=t(1),c=t.n(a),i=t(35),u=t(23);e.default=function(){return Object(i.navigate)(u.a.DASHBOARD),c.a.createElement("div",null," ")}}}]);
